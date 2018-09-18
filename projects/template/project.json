@@ -1,0 +1,1764 @@
+{
+  "presets": [
+    {
+      "category": "Gallery",
+      "title": "Album Gallery",
+      "reload": true,
+      "preview": "elements\/album-gallery.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "album-gallery.html",
+      "categories": [
+        "Gallery",
+        "Animated",
+        "box",
+        "text",
+        "Background",
+        "Video",
+        "Banner",
+        "Call",
+        "to",
+        "action",
+        "Campaign",
+        "Monitor",
+        "Form",
+        "",
+        "Carousel",
+        "Contact",
+        "form",
+        "Countdown",
+        "radial",
+        "Counter",
+        "Facebook",
+        "Flickr",
+        "feed",
+        "Footer",
+        "Google",
+        "map",
+        "Header",
+        "Navigation",
+        "Progress",
+        "bar",
+        "Instagram",
+        "Mailchimp",
+        "Parallax",
+        "Post",
+        "carousel",
+        "Pricing",
+        "table",
+        "Services",
+        "Single",
+        "post",
+        "Slider",
+        "Subscribe",
+        "Team",
+        "members",
+        "Testimonials",
+        "Twitter",
+        "Iframe"
+      ]
+    },
+    {
+      "title": "Animated box",
+      "category": "Animated box",
+      "reload": true,
+      "preview": "elements\/animated-box.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "animated-box.html"
+    },
+    {
+      "title": "Animated box product horizontal flip",
+      "category": "Animated box",
+      "reload": true,
+      "preview": "elements\/animated-box-product-horizontal-flip.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "animated-box-product-horizontal-flip.html"
+    },
+    {
+      "title": "Animated box product vertical flip",
+      "category": "Animated box",
+      "reload": true,
+      "preview": "elements\/animated-box-product-vertical-flip.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "animated-box-product-vertical-flip.html"
+    },
+    {
+      "title": "Animated box Skyscraper",
+      "category": "Animated box",
+      "reload": true,
+      "preview": "elements\/animated-box-skyscraper.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "animated-box-skyscraper.html"
+    },
+    {
+      "title": "Animated box Transparent",
+      "category": "Animated box",
+      "reload": true,
+      "preview": "elements\/animated-box-transparent.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "animated-box-transparent.html"
+    },
+    {
+      "title": "Animated box with order",
+      "category": "Animated box",
+      "reload": true,
+      "preview": "elements\/animated-box-with-order.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "animated-box-with-order.html"
+    },
+    {
+      "title": "Animated FadeIn text",
+      "category": "Animated text",
+      "reload": false,
+      "preview": "elements\/animated-fadein-text.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "animated-fadein-text.html"
+    },
+    {
+      "title": "Animated FadeInUp text",
+      "category": "Animated text",
+      "reload": false,
+      "preview": "elements\/animated-fadeinup-text.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "animated-fadeinup-text.html"
+    },
+    {
+      "title": "Animated LightSpeedIn text",
+      "category": "Animated text",
+      "reload": false,
+      "preview": "elements\/animated-lightspeedin-text.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "animated-lightspeedin-text.html"
+    },
+    {
+      "title": "Animated Pulse text",
+      "category": "Animated text",
+      "reload": false,
+      "preview": "elements\/animated-pulse-text.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "animated-pulse-text.html"
+    },
+    {
+      "title": "Animated Rotate text",
+      "category": "Animated text",
+      "reload": false,
+      "preview": "elements\/animated-rotate-text.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "animated-rotate-text.html"
+    },
+    {
+      "title": "Animated Typed text",
+      "category": "Animated text",
+      "reload": false,
+      "preview": "elements\/animated-typed-text.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "animated-typed-text.html"
+    },
+    {
+      "title": "Background Video for a hero header",
+      "category": "Background Video",
+      "reload": true,
+      "preview": "elements\/background-video-for-a-hero-header.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "background-video-for-a-hero-header.html"
+    },
+    {
+      "title": "Background Video subscribe form",
+      "category": "Background Video",
+      "reload": true,
+      "preview": "elements\/background-video-subscribe-form.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "background-video-subscribe-form.html"
+    },
+    {
+      "title": "Background Video with Carousel",
+      "category": "Background Video",
+      "reload": true,
+      "preview": "elements\/background-video-with-carousel.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "background-video-with-carousel.html"
+    },
+    {
+      "title": "Background Video with Content",
+      "category": "Background Video",
+      "reload": true,
+      "preview": "elements\/background-video-with-content.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "background-video-with-content.html"
+    },
+    {
+      "title": "Banner classic",
+      "category": "Banner",
+      "reload": false,
+      "preview": "elements\/banner-classic.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "banner-classic.html"
+    },
+    {
+      "title": "Banner corporate",
+      "category": "Banner",
+      "reload": false,
+      "preview": "elements\/banner-corporate.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "banner-corporate.html"
+    },
+    {
+      "title": "Banner creative",
+      "category": "Banner",
+      "reload": false,
+      "preview": "elements\/banner-creative.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "banner-creative.html"
+    },
+    {
+      "title": "Banner modern",
+      "category": "Banner",
+      "reload": false,
+      "preview": "elements\/banner-modern.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "banner-modern.html"
+    },
+    {
+      "title": "Banner skyscraper",
+      "category": "Banner",
+      "reload": false,
+      "preview": "elements\/banner-skyscraper.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "banner-skyscraper.html"
+    },
+    {
+      "title": "Banner wide",
+      "category": "Banner",
+      "reload": false,
+      "preview": "elements\/banner-wide.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "banner-wide.html"
+    },
+    {
+      "title": "Call to action centered",
+      "category": "Call to action",
+      "reload": false,
+      "preview": "elements\/call-to-action-centered.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "call-to-action-centered.html"
+    },
+    {
+      "title": "Call to action minimal",
+      "category": "Call to action",
+      "reload": false,
+      "preview": "elements\/call-to-action-minimal.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "call-to-action-minimal.html"
+    },
+    {
+      "title": "Call to action minimal with dark background",
+      "category": "Call to action",
+      "reload": false,
+      "preview": "elements\/call-to-action-minimal-with-dark-background.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "call-to-action-minimal-with-dark-background.html"
+    },
+    {
+      "title": "Call to action with background video",
+      "category": "Call to action",
+      "reload": true,
+      "preview": "elements\/call-to-action-with-background-video.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "call-to-action-with-background-video.html"
+    },
+    {
+      "title": "Call to action with parallax",
+      "category": "Call to action",
+      "reload": true,
+      "preview": "elements\/call-to-action-with-parallax.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "call-to-action-with-parallax.html"
+    },
+    {
+      "title": "Call to action with subscribe form",
+      "category": "Call to action",
+      "reload": true,
+      "preview": "elements\/call-to-action-with-subscribe-form.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "call-to-action-with-subscribe-form.html"
+    },
+    {
+      "title": "Campaign Monitor Form ",
+      "category": "Campaign Monitor Form ",
+      "reload": false,
+      "preview": "elements\/campaign-monitor-form-.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "campaign-monitor-form-.html"
+    },
+    {
+      "title": "Campaign Monitor Form  minimal",
+      "category": "Campaign Monitor Form ",
+      "reload": true,
+      "preview": "elements\/campaign-monitor-form-minimal.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "campaign-monitor-form-minimal.html"
+    },
+    {
+      "title": "Campaign Monitor Form with background",
+      "category": "Campaign Monitor Form ",
+      "reload": true,
+      "preview": "elements\/campaign-monitor-form-with-background.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "campaign-monitor-form-with-background.html"
+    },
+    {
+      "title": "Carousel centered with custom counter",
+      "category": "Carousel",
+      "reload": true,
+      "preview": "elements\/carousel-centered-with-custom-counter.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "carousel-centered-with-custom-counter.html"
+    },
+    {
+      "title": "Carousel fullwidth",
+      "category": "Carousel",
+      "reload": true,
+      "preview": "elements\/carousel-fullwidth.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "carousel-fullwidth.html"
+    },
+    {
+      "title": "Carousel simple",
+      "category": "Carousel",
+      "reload": true,
+      "preview": "elements\/carousel-simple.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "carousel-simple.html"
+    },
+    {
+      "title": "Carousel with pagination",
+      "category": "Carousel",
+      "reload": true,
+      "preview": "elements\/carousel-with-pagination.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "carousel-with-pagination.html"
+    },
+    {
+      "title": "Contact form",
+      "category": "Contact form",
+      "reload": false,
+      "preview": "elements\/contact-form.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "contact-form.html"
+    },
+    {
+      "title": "Contact form variant 2",
+      "category": "Contact form",
+      "reload": false,
+      "preview": "elements\/contact-form-variant-2.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "contact-form-variant-2.html"
+    },
+    {
+      "title": "Contact form with address",
+      "category": "Contact form",
+      "reload": false,
+      "preview": "elements\/contact-form-with-address.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "contact-form-with-address.html"
+    },
+    {
+      "title": "Contact form with address variant 2",
+      "category": "Contact form",
+      "reload": false,
+      "preview": "elements\/contact-form-with-address-variant-2.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "contact-form-with-address-variant-2.html"
+    },
+    {
+      "title": "Countdown",
+      "category": "Countdown",
+      "reload": true,
+      "preview": "elements\/countdown.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "countdown.html"
+    },
+    {
+      "title": "Countdown boxed",
+      "category": "Countdown",
+      "reload": true,
+      "preview": "elements\/countdown-boxed.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "countdown-boxed.html"
+    },
+    {
+      "title": "Countdown circle",
+      "category": "Countdown",
+      "reload": true,
+      "preview": "elements\/countdown-circle.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "countdown-circle.html"
+    },
+    {
+      "title": "Countdown radial",
+      "category": "Countdown radial",
+      "reload": true,
+      "preview": "elements\/countdown-radial.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "countdown-radial.html"
+    },
+    {
+      "title": "Countdown radial classic",
+      "category": "Countdown radial",
+      "reload": true,
+      "preview": "elements\/countdown-radial-classic.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "countdown-radial-classic.html"
+    },
+    {
+      "title": "Countdown radial gradient",
+      "category": "Countdown radial",
+      "reload": true,
+      "preview": "elements\/countdown-radial-gradient.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "countdown-radial-gradient.html"
+    },
+    {
+      "title": "Countdown radial gradient ver2",
+      "category": "Countdown radial",
+      "reload": true,
+      "preview": "elements\/countdown-radial-gradient-ver2.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "countdown-radial-gradient-ver2.html"
+    },
+    {
+      "title": "Countdown with background image",
+      "category": "Countdown",
+      "reload": true,
+      "preview": "elements\/countdown-with-background-image.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "countdown-with-background-image.html"
+    },
+    {
+      "title": "Counter",
+      "category": "Counter",
+      "reload": true,
+      "preview": "elements\/counter.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "counter.html"
+    },
+    {
+      "title": "Counter boxed",
+      "category": "Counter",
+      "reload": true,
+      "preview": "elements\/counter-boxed.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "counter-boxed.html"
+    },
+    {
+      "title": "Counter boxed variant 2",
+      "category": "Counter",
+      "reload": true,
+      "preview": "elements\/counter-boxed-variant-2.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "counter-boxed-variant-2.html"
+    },
+    {
+      "title": "Counter minimal",
+      "category": "Counter",
+      "reload": true,
+      "preview": "elements\/counter-minimal.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "counter-minimal.html"
+    },
+    {
+      "title": "Facebook",
+      "category": "Facebook",
+      "reload": true,
+      "preview": "elements\/facebook.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "facebook.html"
+    },
+    {
+      "title": "Facebook feed in carousel",
+      "category": "Facebook",
+      "reload": true,
+      "preview": "elements\/facebook-feed-in-carousel.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "facebook-feed-in-carousel.html"
+    },
+    {
+      "title": "Facebook feed simple",
+      "category": "Facebook",
+      "reload": true,
+      "preview": "elements\/facebook-feed-simple.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "facebook-feed-simple.html"
+    },
+    {
+      "title": "Flickr feed",
+      "category": "Flickr feed",
+      "reload": true,
+      "preview": "elements\/flickr-feed.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "flickr-feed.html"
+    },
+    {
+      "title": "Flickr feed fullwidth",
+      "category": "Flickr feed",
+      "reload": true,
+      "preview": "elements\/flickr-feed-fullwidth.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "flickr-feed-fullwidth.html"
+    },
+    {
+      "title": "Flickr feed without gutter",
+      "category": "Flickr feed",
+      "reload": true,
+      "preview": "elements\/flickr-feed-without-gutter.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "flickr-feed-without-gutter.html"
+    },
+    {
+      "title": "Footer variant 1",
+      "category": "Footer",
+      "reload": true,
+      "preview": "elements\/footer-variant-1.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "footer-variant-1.html"
+    },
+    {
+      "title": "Footer variant 2",
+      "category": "Footer",
+      "reload": true,
+      "preview": "elements\/footer-variant-2.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "footer-variant-2.html"
+    },
+    {
+      "title": "Footer variant 3",
+      "category": "Footer",
+      "reload": false,
+      "preview": "elements\/footer-variant-3.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "footer-variant-3.html"
+    },
+    {
+      "title": "Footer with google map",
+      "category": "Footer,Google map",
+      "reload": true,
+      "preview": "elements\/footer-with-google-map.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "footer-with-google-map.html"
+    },
+    {
+      "title": "Gallery grid",
+      "category": "Gallery",
+      "reload": true,
+      "preview": "elements\/gallery-grid.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "gallery-grid.html"
+    },
+    {
+      "title": "Gallery grid fullwidth",
+      "category": "Gallery",
+      "reload": true,
+      "preview": "elements\/gallery-grid-fullwidth.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "gallery-grid-fullwidth.html"
+    },
+    {
+      "title": "Gallery grid without padding",
+      "category": "Gallery",
+      "reload": true,
+      "preview": "elements\/gallery-grid-without-padding.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "gallery-grid-without-padding.html"
+    },
+    {
+      "title": "Gallery justify",
+      "category": "Gallery",
+      "reload": true,
+      "preview": "elements\/gallery-justify.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "gallery-justify.html"
+    },
+    {
+      "title": "Gallery Masonry",
+      "category": "Gallery",
+      "reload": true,
+      "preview": "elements\/gallery-masonry.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "gallery-masonry.html"
+    },
+    {
+      "title": "Gallery mosaic",
+      "category": "Gallery",
+      "reload": true,
+      "preview": "elements\/gallery-mosaic.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "gallery-mosaic.html"
+    },
+    {
+      "title": "Google map",
+      "category": "Google map",
+      "reload": true,
+      "preview": "elements\/google-map.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "google-map.html"
+    },
+    {
+      "title": "Google map light style",
+      "category": "Google map",
+      "reload": true,
+      "preview": "elements\/google-map-light-style.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "google-map-light-style.html"
+    },
+    {
+      "title": "Google map with contact form",
+      "category": "Google map",
+      "reload": true,
+      "preview": "elements\/google-map-with-contact-form.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "google-map-with-contact-form.html"
+    },
+    {
+      "title": "Header variant 1",
+      "category": "Header",
+      "reload": true,
+      "preview": "elements\/header-variant-1.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "header-variant-1.html"
+    },
+    {
+      "title": "Header variant 2 ",
+      "category": "Header",
+      "reload": true,
+      "preview": "elements\/header-variant-2-.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "header-variant-2-.html"
+    },
+    {
+      "title": "Header variant 3",
+      "category": "Header",
+      "reload": true,
+      "preview": "elements\/header-variant-3.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "header-variant-3.html"
+    },
+    {
+      "title": "Header variant 4",
+      "category": "Header,Navigation",
+      "reload": true,
+      "preview": "elements\/header-variant-4.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "header-variant-4.html"
+    },
+    {
+      "title": "Header variant 5",
+      "category": "Header,Navigation",
+      "reload": true,
+      "preview": "elements\/header-variant-5.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "header-variant-5.html"
+    },
+    {
+      "title": "Header variant 6",
+      "category": "Header,Navigation",
+      "reload": true,
+      "preview": "elements\/header-variant-6.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "header-variant-6.html"
+    },
+    {
+      "title": "Horizontal Progress bar rounded",
+      "category": "Progress bar",
+      "reload": true,
+      "preview": "elements\/horizontal-progress-bar-rounded.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "horizontal-progress-bar-rounded.html"
+    },
+    {
+      "title": "Horizontal Progress bar square",
+      "category": "Progress bar",
+      "reload": true,
+      "preview": "elements\/horizontal-progress-bar-square.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "horizontal-progress-bar-square.html"
+    },
+    {
+      "title": "Horizontal Progress bar with gradient",
+      "category": "Progress bar",
+      "reload": true,
+      "preview": "elements\/horizontal-progress-bar-with-gradient.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "horizontal-progress-bar-with-gradient.html"
+    },
+    {
+      "title": "Instagram feed",
+      "category": "Instagram feed",
+      "reload": true,
+      "preview": "elements\/instagram-feed.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "instagram-feed.html"
+    },
+    {
+      "title": "Instagram feed fullwidth",
+      "category": "Instagram feed",
+      "reload": true,
+      "preview": "elements\/instagram-feed-fullwidth.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "instagram-feed-fullwidth.html"
+    },
+    {
+      "title": "Instagram feed without gutter",
+      "category": "Instagram feed",
+      "reload": true,
+      "preview": "elements\/instagram-feed-without-gutter.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "instagram-feed-without-gutter.html"
+    },
+    {
+      "title": "Mailchimp form",
+      "category": "Mailchimp form",
+      "reload": false,
+      "preview": "elements\/mailchimp-form.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "mailchimp-form.html"
+    },
+    {
+      "title": "Mailchimp form minimal",
+      "category": "Mailchimp form",
+      "reload": true,
+      "preview": "elements\/mailchimp-form-minimal.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "mailchimp-form-minimal.html"
+    },
+    {
+      "title": "Mailchimp form with background image",
+      "category": "Mailchimp form",
+      "reload": true,
+      "preview": "elements\/mailchimp-form-with-background-image.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "mailchimp-form-with-background-image.html"
+    },
+    {
+      "title": "Navigation variant 1",
+      "category": "Navigation",
+      "reload": true,
+      "preview": "elements\/navigation-variant-1.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "navigation-variant-1.html"
+    },
+    {
+      "title": "Navigation variant 2",
+      "category": "Navigation",
+      "reload": true,
+      "preview": "elements\/navigation-variant-2.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "navigation-variant-2.html"
+    },
+    {
+      "title": "Navigation variant 3",
+      "category": "Navigation",
+      "reload": true,
+      "preview": "elements\/navigation-variant-3.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "navigation-variant-3.html"
+    },
+    {
+      "title": "Parallax with content",
+      "category": "Parallax",
+      "reload": true,
+      "preview": "elements\/parallax-with-content.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "parallax-with-content.html"
+    },
+    {
+      "title": "Parallax with cta",
+      "category": "Parallax",
+      "reload": true,
+      "preview": "elements\/parallax-with-cta.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "parallax-with-cta.html"
+    },
+    {
+      "title": "Parallax with subscribe form",
+      "category": "Parallax",
+      "reload": true,
+      "preview": "elements\/parallax-with-subscribe-form.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "parallax-with-subscribe-form.html"
+    },
+    {
+      "title": "Post carousel variant 1",
+      "category": "Post carousel",
+      "reload": true,
+      "preview": "elements\/post-carousel-variant-1.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "post-carousel-variant-1.html"
+    },
+    {
+      "title": "Post carousel variant 2",
+      "category": "Post carousel",
+      "reload": true,
+      "preview": "elements\/post-carousel-variant-2.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "post-carousel-variant-2.html"
+    },
+    {
+      "title": "Post carousel variant 3",
+      "category": "Post carousel",
+      "reload": true,
+      "preview": "elements\/post-carousel-variant-3.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "post-carousel-variant-3.html"
+    },
+    {
+      "title": "Post carousel variant 4",
+      "category": "Post carousel",
+      "reload": true,
+      "preview": "elements\/post-carousel-variant-4.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "post-carousel-variant-4.html"
+    },
+    {
+      "title": "Post carousel variant 5",
+      "category": "Post carousel",
+      "reload": true,
+      "preview": "elements\/post-carousel-variant-5.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "post-carousel-variant-5.html"
+    },
+    {
+      "title": "Post carousel variant 6",
+      "category": "Post carousel",
+      "reload": true,
+      "preview": "elements\/post-carousel-variant-6.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "post-carousel-variant-6.html"
+    },
+    {
+      "title": "Post grid",
+      "category": "Post",
+      "reload": false,
+      "preview": "elements\/post-grid.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "post-grid.html"
+    },
+    {
+      "title": "Post horizontal",
+      "category": "Post",
+      "reload": false,
+      "preview": "elements\/post-horizontal.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "post-horizontal.html"
+    },
+    {
+      "title": "Post mixed",
+      "category": "Post",
+      "reload": false,
+      "preview": "elements\/post-mixed.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "post-mixed.html"
+    },
+    {
+      "title": "Post related",
+      "category": "Post",
+      "reload": false,
+      "preview": "elements\/post-related.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "post-related.html"
+    },
+    {
+      "title": "Post timeline",
+      "category": "Post",
+      "reload": false,
+      "preview": "elements\/post-timeline.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "post-timeline.html"
+    },
+    {
+      "title": "Post vertical",
+      "category": "Post",
+      "reload": false,
+      "preview": "elements\/post-vertical.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "post-vertical.html"
+    },
+    {
+      "title": "Pricing table variant 1",
+      "category": "Pricing table",
+      "reload": true,
+      "preview": "elements\/pricing-table-variant-1.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "pricing-table-variant-1.html"
+    },
+    {
+      "title": "Pricing table variant 2",
+      "category": "Pricing table",
+      "reload": true,
+      "preview": "elements\/pricing-table-variant-2.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "pricing-table-variant-2.html"
+    },
+    {
+      "title": "Pricing table variant 3",
+      "category": "Pricing table",
+      "reload": true,
+      "preview": "elements\/pricing-table-variant-3.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "pricing-table-variant-3.html"
+    },
+    {
+      "title": "Pricing table variant 4",
+      "category": "Pricing table",
+      "reload": true,
+      "preview": "elements\/pricing-table-variant-4.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "pricing-table-variant-4.html"
+    },
+    {
+      "title": "Radial Progress bar",
+      "category": "Progress bar",
+      "reload": true,
+      "preview": "elements\/radial-progress-bar.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "radial-progress-bar.html"
+    },
+    {
+      "title": "Radial Progress bar with gradient",
+      "category": "Progress bar",
+      "reload": true,
+      "preview": "elements\/radial-progress-bar-with-gradient.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "radial-progress-bar-with-gradient.html"
+    },
+    {
+      "title": "Radial Progress bar with round line",
+      "category": "Progress bar",
+      "reload": true,
+      "preview": "elements\/radial-progress-bar-with-round-line.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "radial-progress-bar-with-round-line.html"
+    },
+    {
+      "title": "Services variant 1",
+      "category": "Services",
+      "reload": false,
+      "preview": "elements\/services-variant-1.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "services-variant-1.html"
+    },
+    {
+      "title": "Services variant 2",
+      "category": "Services",
+      "reload": false,
+      "preview": "elements\/services-variant-2.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "services-variant-2.html"
+    },
+    {
+      "title": "Services variant 3",
+      "category": "Services",
+      "reload": false,
+      "preview": "elements\/services-variant-3.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "services-variant-3.html"
+    },
+    {
+      "title": "Services variant 4",
+      "category": "Services",
+      "reload": true,
+      "preview": "elements\/services-variant-4.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "services-variant-4.html"
+    },
+    {
+      "title": "Single post audio",
+      "category": "Single post",
+      "reload": true,
+      "preview": "elements\/single-post-audio.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "single-post-audio.html"
+    },
+    {
+      "title": "Single post image",
+      "category": "Single post",
+      "reload": false,
+      "preview": "elements\/single-post-image.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "single-post-image.html"
+    },
+    {
+      "title": "Single post video",
+      "category": "Single post",
+      "reload": true,
+      "preview": "elements\/single-post-video.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "single-post-video.html"
+    },
+    {
+      "title": "Slider with Ken Burns effect",
+      "category": "Slider",
+      "reload": true,
+      "preview": "elements\/slider-with-ken-burns-effect.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "slider-with-ken-burns-effect.html"
+    },
+    {
+      "title": "Slider with navigation",
+      "category": "Slider",
+      "reload": true,
+      "preview": "elements\/slider-with-navigation.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "slider-with-navigation.html"
+    },
+    {
+      "title": "Slider with pagination",
+      "category": "Slider",
+      "reload": true,
+      "preview": "elements\/slider-with-pagination.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "slider-with-pagination.html"
+    },
+    {
+      "title": "Slider with progress pagination",
+      "category": "Slider",
+      "reload": true,
+      "preview": "elements\/slider-with-progress-pagination.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "slider-with-progress-pagination.html"
+    },
+    {
+      "title": "Subscribe form",
+      "category": "Subscribe form",
+      "reload": false,
+      "preview": "elements\/subscribe-form.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "subscribe-form.html"
+    },
+    {
+      "title": "Subscribe form minimal",
+      "category": "Subscribe form",
+      "reload": true,
+      "preview": "elements\/subscribe-form-minimal.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "subscribe-form-minimal.html"
+    },
+    {
+      "title": "Subscribe form with background",
+      "category": "Subscribe form",
+      "reload": true,
+      "preview": "elements\/subscribe-form-with-background.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "subscribe-form-with-background.html"
+    },
+    {
+      "title": "Team members variant 1",
+      "category": "Team members",
+      "reload": false,
+      "preview": "elements\/team-members-variant-1.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "team-members-variant-1.html"
+    },
+    {
+      "title": "Team members variant 2",
+      "category": "Team members",
+      "reload": false,
+      "preview": "elements\/team-members-variant-2.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "team-members-variant-2.html"
+    },
+    {
+      "title": "Team members variant 3",
+      "category": "Team members",
+      "reload": false,
+      "preview": "elements\/team-members-variant-3.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "team-members-variant-3.html"
+    },
+    {
+      "title": "Team members variant 4",
+      "category": "Team members",
+      "reload": false,
+      "preview": "elements\/team-members-variant-4.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "team-members-variant-4.html"
+    },
+    {
+      "title": "Testimonials classic",
+      "category": "Testimonials",
+      "reload": false,
+      "preview": "elements\/testimonials-classic.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "testimonials-classic.html"
+    },
+    {
+      "title": "Testimonials classic in carousel",
+      "category": "Testimonials",
+      "reload": true,
+      "preview": "elements\/testimonials-classic-in-carousel.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "testimonials-classic-in-carousel.html"
+    },
+    {
+      "title": "Testimonials horizontal ",
+      "category": "Testimonials",
+      "reload": false,
+      "preview": "elements\/testimonials-horizontal-.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "testimonials-horizontal-.html"
+    },
+    {
+      "title": "Testimonials horizontal in carousel",
+      "category": "Testimonials",
+      "reload": true,
+      "preview": "elements\/testimonials-horizontal-in-carousel.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "testimonials-horizontal-in-carousel.html"
+    },
+    {
+      "title": "Testimonials with centered image",
+      "category": "Testimonials",
+      "reload": false,
+      "preview": "elements\/testimonials-with-centered-image.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "testimonials-with-centered-image.html"
+    },
+    {
+      "title": "Testimonials with centered image in carousel",
+      "category": "Testimonials",
+      "reload": true,
+      "preview": "elements\/testimonials-with-centered-image-in-carousel.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "testimonials-with-centered-image-in-carousel.html"
+    },
+    {
+      "title": "Twitter feed ",
+      "category": "Twitter feed",
+      "reload": true,
+      "preview": "elements\/twitter-feed-.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "twitter-feed-.html"
+    },
+    {
+      "title": "Twitter feed carousel",
+      "category": "Twitter feed",
+      "reload": true,
+      "preview": "elements\/twitter-feed-carousel.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "twitter-feed-carousel.html"
+    },
+    {
+      "title": "Twitter feed variant 2",
+      "category": "Twitter feed",
+      "reload": true,
+      "preview": "elements\/twitter-feed-variant-2.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "twitter-feed-variant-2.html"
+    },
+    {
+      "title": "Vertical Progress bar rounded",
+      "category": "Progress bar",
+      "reload": true,
+      "preview": "elements\/vertical-progress-bar-rounded.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "vertical-progress-bar-rounded.html"
+    },
+    {
+      "title": "Vertical Progress bar square",
+      "category": "Progress bar",
+      "reload": true,
+      "preview": "elements\/vertical-progress-bar-square.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "vertical-progress-bar-square.html"
+    },
+    {
+      "title": "Vertical Progress bar with gradient ",
+      "category": "Progress bar",
+      "reload": true,
+      "preview": "elements\/vertical-progress-bar-with-gradient-.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "vertical-progress-bar-with-gradient-.html"
+    },
+    {
+      "title": "Vertical slider with pagination",
+      "category": "Slider",
+      "reload": true,
+      "preview": "elements\/vertical-slider-with-pagination.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "vertical-slider-with-pagination.html"
+    },
+    {
+      "title": "Vimeo iframe",
+      "category": "Iframe",
+      "reload": true,
+      "preview": "elements\/vimeo-iframe.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "vimeo-iframe.html"
+    },
+    {
+      "title": "Vimeo iframe variant 2",
+      "category": "Iframe",
+      "reload": true,
+      "preview": "elements\/vimeo-iframe-variant-2.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "vimeo-iframe-variant-2.html"
+    },
+    {
+      "title": "Youtube iframe",
+      "category": "Iframe",
+      "reload": true,
+      "preview": "elements\/youtube-iframe.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "youtube-iframe.html"
+    },
+    {
+      "title": "Youtube iframe with tabs",
+      "category": "Iframe",
+      "reload": true,
+      "preview": "elements\/youtube-iframe-with-tabs.jpeg",
+      "canBeInsertedTo": ".page",
+      "path": "youtube-iframe-with-tabs.html"
+    }
+  ],
+  "name": "uikit",
+  "dir": "projects\/template\/",
+  "pages": [
+    {
+      "title": "Landing Portfolio",
+      "index": true,
+      "isActive": true,
+      "path": "index.html",
+      "preview": "novi\/pages\/portfolio-1.jpeg"
+    },
+    {
+      "title": "Landing Agency",
+      "index": false,
+      "isActive": false,
+      "path": "landing-agency.html",
+      "preview": "novi\/pages\/agency-1.jpeg"
+    },
+    {
+      "title": "Landing Business",
+      "index": false,
+      "isActive": false,
+      "path": "landing-business.html",
+      "preview": "novi\/pages\/business-1.jpeg"
+    },
+    {
+      "title": "Landing Modern",
+      "index": false,
+      "isActive": false,
+      "path": "landing-modern.html",
+      "preview": "novi\/pages\/modern-1.jpeg"
+    }
+  ],
+  "files": [],
+  "readOnlyFiles": [],
+  "publishPath": "..\/projects\/template\/",
+  "layers": [
+    {
+      "name": "section",
+      "element": ".section",
+      "canBeInsertedTo": ".page"
+    },
+    {
+      "name": "footer",
+      "element": "footer",
+      "canBeInsertedTo": ".page"
+    },
+    {
+      "name": "header",
+      "element": "header",
+      "canBeInsertedTo": ".page"
+    },
+    {
+      "name": "navbar",
+      "element": ".rd-navbar-nav > li",
+      "canBeInsertedTo": ".rd-navbar-nav"
+    },
+    {
+      "name": "dropdown",
+      "element": ".rd-navbar-dropdown > li",
+      "canBeInsertedTo": ".rd-navbar-dropdown"
+    },
+    {
+      "name": "megamenu",
+      "element": ".rd-navbar-megamenu .rd-megamenu-list > li ",
+      "canBeInsertedTo": ".rd-navbar-megamenu .rd-megamenu-list"
+    },
+    {
+      "name": "list inline",
+      "element": ".list-inline > li ",
+      "canBeInsertedTo": ".list-inline"
+    },
+    {
+      "name": "index list",
+      "element": ".index-list > li",
+      "canBeInsertedTo": ".index-list"
+    },
+    {
+      "name": "breadcrumbs",
+      "element": ".breadcrumbs-custom > li ",
+      "canBeInsertedTo": ".breadcrumbs-custom"
+    },
+    {
+      "name": "progress bars",
+      "element": ".list-bars > li ",
+      "canBeInsertedTo": ".list-bars"
+    },
+    {
+      "name": "column",
+      "element": "*:not(.rd-mailform) > .row > [class*=\"col-\"]",
+      "canBeInsertedTo": "*:not(.rd-mailform) > .row"
+    }
+  ],
+  "iconFonts": [
+    {
+      "family": "FontAwesome",
+      "default": false
+    },
+    {
+      "family": "fl-bigmug-line",
+      "default": false
+    }
+  ],
+  "plugins": [
+    {
+      "name": "novi-plugin-background-image",
+      "settings": {
+        "querySelector": "[class*=\"bg-image\"], .banner-box-variant-5",
+        "childQuerySelector": "[class*=\"custom-bg-image-image\"]"
+      }
+    },
+    {
+      "name": "novi-plugin-camera-slider",
+      "settings": {
+        "querySelector": ".camera_wrap"
+      }
+    },
+    {
+      "name": "novi-plugin-countdown",
+      "settings": {
+        "querySelector": ".novi-countdown"
+      }
+    },
+    {
+      "name": "novi-plugin-campaign-monitor",
+      "settings": {
+        "querySelector": "[class*=\"campaign-mailform\"]"
+      }
+    },
+    {
+      "name": "novi-plugin-google-map",
+      "settings": {
+        "querySelector": ".google-map-container"
+      }
+    },
+    {
+      "name": "novi-plugin-icon-manager",
+      "settings": {
+        "querySelector": ".novi-icon"
+      }
+    },
+    {
+      "name": "novi-plugin-iframe",
+      "settings": {
+        "querySelector": "iframe[src]"
+      }
+    },
+    {
+      "name": "novi-plugin-background",
+      "settings": {
+        "querySelector": ".novi-background"
+      }
+    },
+    {
+      "name": "novi-plugin-label",
+      "settings": {
+        "querySelector": "label"
+      }
+    },
+    {
+      "name": "novi-plugin-image",
+      "settings": {
+        "querySelector": "img[src]"
+      }
+    },
+    {
+      "name": "novi-plugin-light-gallery",
+      "settings": {
+        "groupQuerySelector": "[data-lightgallery=\"group\"]",
+        "albumQuerySelector": "[data-lightgallery=\"dynamic\"]",
+        "childQuerySelector": "[data-lightgallery=\"item\"]",
+        "querySelector": "[data-lightgallery=\"group\"], [data-lightgallery=\"dynamic\"], [data-lightgallery=\"item\"]"
+      }
+    },
+    {
+      "name": "novi-plugin-mailchimp",
+      "settings": {
+        "querySelector": "[class*=\"mailchimp-mailform\"]"
+      }
+    },
+    {
+      "name": "novi-plugin-link",
+      "settings": {
+        "querySelector": "a[href]",
+        "favoriteLinks": [
+          {
+            "value": "https:\/\/www.facebook.com\/NoviBuilder\/",
+            "title": "Facebook",
+            "id": 1
+          },
+          {
+            "value": "https:\/\/twitter.com\/novibuilder",
+            "title": "Twitter",
+            "id": 0
+          }
+        ],
+        "applyToProjectElements": true
+      }
+    },
+    {
+      "name": "novi-plugin-owl-carousel",
+      "settings": {
+        "querySelector": ".owl-carousel",
+        "childQuerySelector": ".owl-carousel .owl-item > *"
+      }
+    },
+    {
+      "name": "novi-plugin-material-parallax",
+      "settings": {
+        "querySelector": ".parallax-container"
+      }
+    },
+    {
+      "name": "novi-plugin-rd-facebook",
+      "settings": {
+        "querySelector": ".facebook"
+      }
+    },
+    {
+      "name": "novi-plugin-rd-instafeed",
+      "settings": {
+        "querySelector": ".instafeed"
+      }
+    },
+    {
+      "name": "novi-plugin-rd-mailform",
+      "settings": {
+        "querySelector": ".rd-mailform",
+        "configLocation": "bat\/rd-mailform.config.json"
+      }
+    },
+    {
+      "name": "novi-plugin-rd-twitterfeed",
+      "settings": {
+        "querySelector": ".twitter"
+      }
+    },
+    {
+      "name": "novi-plugin-swiper-slider",
+      "settings": {
+        "querySelector": ".swiper-container",
+        "effects": [
+          {
+            "label": "Slide",
+            "value": "slide",
+            "clearableValue": false
+          },
+          {
+            "label": "Fade",
+            "value": "fade",
+            "clearableValue": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "novi-plugin-vide",
+      "settings": {
+        "querySelector": ".novi-vide, .vide_bg"
+      }
+    }
+  ],
+  "mediaDir": "images\/",
+  "videoDir": "video\/",
+  "fontDir": "fonts\/",
+  "codeEditor": {
+    "cssFile": "css\/bootstrap.css",
+    "jsFile": null
+  },
+  "pageContainer": ".page",
+  "mediaLibrary": {
+    "items": [
+      {
+        "original": "bg-image-1.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/bg-image-1.jpg",
+        "categories": [],
+        "id": 0
+      },
+      {
+        "original": "bg-image-2.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/bg-image-2.jpg",
+        "categories": [],
+        "id": 1
+      },
+      {
+        "original": "bg-image-3.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/bg-image-3.jpg",
+        "categories": [],
+        "id": 2
+      },
+      {
+        "original": "bg-image-5.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/bg-image-5.jpg",
+        "categories": [],
+        "id": 4
+      },
+      {
+        "original": "bg-image-6.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/bg-image-6.jpg",
+        "categories": [],
+        "id": 5
+      },
+      {
+        "original": "bg-image-7.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/bg-image-7.jpg",
+        "categories": [],
+        "id": 6
+      },
+      {
+        "original": "bg-image-8.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/bg-image-8.jpg",
+        "categories": [],
+        "id": 7
+      },
+      {
+        "original": "bg-image-9.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/bg-image-9.jpg",
+        "categories": [],
+        "id": 8
+      },
+      {
+        "original": "bg-image-10.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/bg-image-10.jpg",
+        "categories": [],
+        "id": 9
+      },
+      {
+        "original": "slide-1.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/slide-1.jpg",
+        "categories": [],
+        "id": 10
+      },
+      {
+        "original": "slide-2.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/slide-2.jpg",
+        "categories": [],
+        "id": 11
+      },
+      {
+        "original": "slide-3.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/slide-3.jpg",
+        "categories": [],
+        "id": 12
+      },
+      {
+        "original": "slide-4.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/slide-4.jpg",
+        "categories": [],
+        "id": 13
+      },
+      {
+        "original": "slide-5.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/slide-5.jpg",
+        "categories": [],
+        "id": 14
+      },
+      {
+        "original": "slide-6.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/slide-6.jpg",
+        "categories": [],
+        "id": 15
+      },
+      {
+        "original": "slide-7.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/slide-7.jpg",
+        "categories": [],
+        "id": 16
+      },
+      {
+        "original": "slide-8.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/slide-8.jpg",
+        "categories": [],
+        "id": 17
+      },
+      {
+        "original": "slide-9.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/slide-9.jpg",
+        "categories": [],
+        "id": 18
+      },
+      {
+        "original": "slide-10.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/slide-10.jpg",
+        "categories": [],
+        "id": 19
+      },
+      {
+        "original": "slide-11.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/slide-11.jpg",
+        "categories": [],
+        "id": 20
+      },
+      {
+        "original": "slide-12.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/slide-12.jpg",
+        "categories": [],
+        "id": 21
+      },
+      {
+        "original": "video-1.mp4",
+        "type": "video",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/video-1-novi-video.jpg",
+        "categories": [],
+        "id": 22
+      },
+      {
+        "original": "video-lg.mp4",
+        "type": "video",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/video-lg-novi-video.jpg",
+        "categories": [],
+        "id": 23
+      },
+      {
+        "original": "gmap_marker.png",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/gmap_marker.png",
+        "categories": [],
+        "id": 24
+      },
+      {
+        "original": "gmap_marker_active.png",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/gmap_marker_active.png",
+        "categories": [],
+        "id": 25
+      },
+      {
+        "original": "video-1-1.jpeg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/video-1-1.jpeg",
+        "categories": [],
+        "id": 27
+      },
+      {
+        "original": "grid-gallery-1.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/grid-gallery-1.jpg",
+        "categories": [],
+        "id": 28
+      },
+      {
+        "original": "grid-gallery-1_original.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/grid-gallery-1_original.jpg",
+        "categories": [],
+        "id": 29
+      },
+      {
+        "original": "grid-gallery-2.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/grid-gallery-2.jpg",
+        "categories": [],
+        "id": 30
+      },
+      {
+        "original": "grid-gallery-2_original.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/grid-gallery-2_original.jpg",
+        "categories": [],
+        "id": 31
+      },
+      {
+        "original": "grid-gallery-3.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/grid-gallery-3.jpg",
+        "categories": [],
+        "id": 32
+      },
+      {
+        "original": "grid-gallery-3_original.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/grid-gallery-3_original.jpg",
+        "categories": [],
+        "id": 33
+      },
+      {
+        "original": "grid-gallery-4.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/grid-gallery-4.jpg",
+        "categories": [],
+        "id": 34
+      },
+      {
+        "original": "grid-gallery-4_original.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/grid-gallery-4_original.jpg",
+        "categories": [],
+        "id": 35
+      },
+      {
+        "original": "grid-gallery-7.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/grid-gallery-7.jpg",
+        "categories": [],
+        "id": 36
+      },
+      {
+        "original": "grid-gallery-7_original.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/grid-gallery-7_original.jpg",
+        "categories": [],
+        "id": 37
+      },
+      {
+        "original": "grid-gallery-8.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/grid-gallery-8.jpg",
+        "categories": [],
+        "id": 38
+      },
+      {
+        "original": "grid-gallery-8_original.jpg",
+        "type": "image",
+        "thumbnail": "projects\/template\/novi\/media\/thumbnails\/grid-gallery-8_original.jpg",
+        "categories": [],
+        "id": 39
+      }
+    ],
+    "categories": []
+  },
+  "basicTemplate": "<!DOCTYPE html>\r\n<html class=\"wide wow-animation\" lang=\"en\">\r\n  <head>\r\n    <title>Home<\/title>\r\n    <meta name=\"format-detection\" content=\"telephone=no\">\r\n    <meta name=\"viewport\" content=\"width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta charset=\"utf-8\">\r\n    <link rel=\"icon\" href=\"images\/favicon.ico\" type=\"image\/x-icon\">\r\n    \r\n    <link rel=\"stylesheet\" type=\"text\/css\" href=\"\/\/fonts.googleapis.com\/css?family=Montserrat:400,700%7CRoboto:100,300,400,700,900\">\r\n    <link rel=\"stylesheet\" href=\"css\/bootstrap.css\">\r\n    <link rel=\"stylesheet\" href=\"css\/style.css\">\r\n\t\t<!--[if lt IE 10]>\r\n    <div style=\"background: #212121; padding: 10px 0; box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3); clear: both; text-align:center; position: relative; z-index:1;\"><a href=\"http:\/\/windows.microsoft.com\/en-US\/internet-explorer\/\"><img src=\"images\/ie8-panel\/warning_bar_0000_us.jpg\" border=\"0\" height=\"42\" width=\"820\" alt=\"You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today.\"><\/a><\/div>\r\n    <script src=\"js\/html5shiv.min.js\"><\/script>\r\n\t\t<![endif]-->\r\n  <\/head>\r\n  <body>\r\n    <div class=\"page-loader\">\r\n      <div class=\"brand-name\"><img src=\"images\/logo-default-100x28.png\" alt=\"\" width=\"100\" height=\"28\"\/>\r\n      <\/div>\r\n      <div class=\"page-loader-body\">\r\n        <div class=\"cssload-jumping\"><span><\/span><span><\/span><span><\/span><span><\/span><span><\/span><\/div>\r\n      <\/div>\r\n    <\/div>\r\n    \r\n    <div class=\"page text-center\">\r\n      \r\n    <\/div>\r\n    \r\n    <div class=\"snackbars\" id=\"form-output-global\"><\/div>\r\n    \r\n    <script async src=\"https:\/\/www.youtube.com\/iframe_api\"><\/script>\r\n    <script src=\"js\/core.min.js\"><\/script>\r\n    <script src=\"js\/script.js\"><\/script>\r\n  <\/body>\r\n<\/html>",
+  "disablePublishPromt": false,
+  "cssDir": "css\/"
+}
